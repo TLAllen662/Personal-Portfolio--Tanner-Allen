@@ -9,9 +9,10 @@ This portfolio is a snapshot of my journey—learning, growing, and having fun a
 ## 💼 Past Repositories
 
 Curious about what I've built? Dive into my past projects and experiments on my GitHub dashboard:
-Web-Development-Final
-https://github.com/TLAllen662/Web-Development-Final
-https://github.com/TLAllen662/Positions-In-Baseball
-https://github.com/TLAllen662/app-dev-assignment-2
-https://github.com/TLAllen662/AppDevelopment1-assignment1
-https://github.com/TLAllen662/web-development
+
+- [Web-Development-Final](https://github.com/TLAllen662/Web-Development-Final)
+- [Positions-In-Baseball](https://github.com/TLAllen662/Positions-In-Baseball)
+- [app-dev-assignment-2](https://github.com/TLAllen662/app-dev-assignment-2)
+- [AppDevelopment1-assignment1](https://github.com/TLAllen662/AppDevelopment1-assignment1)
+- [web-development](https://github.com/TLAllen662/web-development)
+
