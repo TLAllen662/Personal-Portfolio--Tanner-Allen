@@ -27,6 +27,3 @@ These are some of the technologies and tools I’ve been working with and feel c
 - Node.js / Express
 - SQL (e.g. MySQL, PostgreSQL)
 
-*…and more!  
-(Grab the full, up‑to‑date list from [your Rize dashboard](https://app.rize.education/mycareer/skills) and edit this section whenever you level up.)*
-
