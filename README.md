@@ -1,11 +1,14 @@
 # Personal-Portfolio--Tanner-Allen
 
-## Introduction
+## 🎉 Introduction
 
-Hello! I'm a student at **Blue Mountain Christian University**, where I balance my academic pursuits with a passion for athletics. I play baseball and enjoy being part of a team, both on and off the field. My long-term aspiration is to become a **software developer**, building applications that make a difference.
+Hey there! 👋 I'm a proud student at **Blue Mountain Christian University**, where I mix late-night study sessions with baseball practice and good times with teammates. ⚾ Outside of the classroom, you'll usually find me on the diamond or tinkering with code as I chase my dream of becoming a **software developer** 🖥️💡
 
-## Past Repositories
+This portfolio is a snapshot of my journey—learning, growing, and having fun along the way.
 
-You can explore my previous projects and code on my GitHub dashboard:
+## 💼 Past Repositories
 
-[https://github.com/dashboard](https://github.com/dashboard)
+Curious about what I've built? Dive into my past projects and experiments on my GitHub dashboard:
+
+➡️ [https://github.com/dashboard](https://github.com/dashboard)  
+(Feel free to explore and say hi!)
