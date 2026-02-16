@@ -27,3 +27,9 @@ These are some of the technologies and tools I’ve been working with and feel c
 - Node.js / Express
 - SQL (e.g. MySQL, PostgreSQL)
 
+## 🔗 LinkedIn Profile
+
+Connect with me on LinkedIn:
+
+[https://www.linkedin.com/in/tanner-allen-309485384/](https://www.linkedin.com/in/tanner-allen-309485384/)
+
