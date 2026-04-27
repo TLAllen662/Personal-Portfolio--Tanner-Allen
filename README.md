@@ -16,6 +16,16 @@ Curious about what I've built? Dive into my past projects and experiments on my 
 - [AppDevelopment1-assignment1](https://github.com/TLAllen662/AppDevelopment1-assignment1)
 - [web-development](https://github.com/TLAllen662/web-development)
 
+## API Final Project Description
+I made a fitness API that detailed schedules, usernames, events, and kept track of personal information to help make it easier for people to keep up with their own goals so they don't have to remember them. Skills used include:
+- APIs
+- GitHub
+- SQL
+- HTML
+- Render
+- Postman
+
+Link: https://github.com/TLAllen662/AppDev1Final-Tanner-Allen
 ## 🛠️ Current Development Skills
 
 These are some of the technologies and tools I’ve been working with and feel comfortable using:
